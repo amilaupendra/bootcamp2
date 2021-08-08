@@ -93,7 +93,7 @@ function AboutCsup() {
             
             <hr/>
             <h2 align="center" className="aboutus-h1-1">PAST EVENTS </h2>
-            <p>We have successfully completed some remarkable events with the guidance of lecturers and support by the members of the CSUP to create innovative extraordinary solutions to the wider world.</p>
+            <p>We have successfully Completed some remarkable events with the guidance of lecturers and support by the members of the CSUP to create innovative extraordinary solutions to the wider world.</p>
             
             <hr/>
             <br/>
